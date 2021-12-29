@@ -1,6 +1,6 @@
 **KubAnomaly_DataSet and model**
 
-This project is used to detected some anomaly behavior in container.
+This project is used to detect some anomaly behavior in container.
 We offer program and data set used in our paper
 
 "KubAnomaly: Anomaly detection for the Docker
@@ -17,17 +17,17 @@ orchestration platform with neural network approaches"
 
 then you can reproduce the experiment result 
 
-P.S the result may have a slice different compare to our paper. 
-    We think maybe is package version problem
+P.S the result may have a slight different compared to our paper. 
+    We think maybe it is because of package versions problem
  
  **KubAnomaly_DataSet and model**    
  
- This agent is used to collect some container log and send them back to center
+ This agent is used to collect some container logs and send them back to center
  
- **Requirment**    
+ **Requirements**    
  
  gradle 5.6.4
- oracal java 1.8
+ oracle java 1.8
  kotlin 1.3
  
  **Usage**    
